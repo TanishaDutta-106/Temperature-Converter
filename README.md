@@ -16,3 +16,6 @@ Responsive and styled with basic CSS <br>
 HTML5 <br>
 CSS3<br>
 JavaScript (Vanilla)<br>
+
+<h2>Notes</h2>
+This project was built following Roadmap.sh Datepicker UI project. https://roadmap.sh/projects/temperature-converter <br>
